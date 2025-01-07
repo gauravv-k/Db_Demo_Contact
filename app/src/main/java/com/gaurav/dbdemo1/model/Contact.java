@@ -1,4 +1,4 @@
-package model;
+package com.gaurav.dbdemo1.model;
 
 public class Contact {
     // all contacts properties

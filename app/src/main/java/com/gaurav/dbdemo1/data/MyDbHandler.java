@@ -1,4 +1,4 @@
-package data;
+package com.gaurav.dbdemo1.data;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -10,8 +10,8 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
-import model.Contact;
-import params.Params;
+import com.gaurav.dbdemo1.model.Contact;
+import com.gaurav.dbdemo1.params.Params;
 
 public class MyDbHandler extends SQLiteOpenHelper {
     private static final String TAG = "MyDbHandler";

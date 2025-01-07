@@ -1,5 +1,7 @@
-package params;
+package com.gaurav.dbdemo1.params;
 
+
+// this package is used for declaring keys for respective terms of tht title
 public class Params {
     public static final int DATA_VERSION = 1;
     public static final String DB_NAME = "Contacts_db";
